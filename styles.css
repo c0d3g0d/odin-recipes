@@ -1,0 +1,49 @@
+body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: black;
+    background-color: #ffffff;
+}
+
+.description {
+    font-weight: bold;
+}
+
+h1 {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+
+}
+
+h1, h2 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    
+}
+
+ul a {
+    
+    font-size: xx-large;
+}
+
+.ingredients {
+    font-style: italic;
+}
+
+.home {
+    text-align: center;
+
+}
